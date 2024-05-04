@@ -1,0 +1,67 @@
+{
+    "courses":  [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of playinf guitar with our comprehensive beginner's course.",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+          "id": 2,
+          "title": "Piano Basics",
+          "slug": "piano-basics",
+          "description": "Master the fundamentals of playing the piano with our step-by-step beginner's guide.",
+          "price": 89.99,
+          "instructor": "Jane Smith",
+          "isFeatured": true,
+          "image": "/courses/piano.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Photography 101",
+          "slug": "photography-101",
+          "description": "Learn the essential techniques and principles of photography to capture stunning images.",
+          "price": 79.99,
+          "instructor": "Michael Johnson",
+          "isFeatured": true,
+          "image": "/courses/photography.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Cooking Fundamentals",
+          "slug": "cooking-fundamentals",
+          "description": "Discover the basics of cooking from knife skills to flavor combinations in our beginner's cooking course.",
+          "price": 69.99,
+          "instructor": "Sarah Lee",
+          "isFeatured": true,
+          "image": "/courses/cooking.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Yoga for Beginners",
+          "slug": "yoga-for-beginners",
+          "description": "Start your journey into yoga with our beginner-friendly classes focusing on poses, breathing, and relaxation techniques.",
+          "price": 79.99,
+          "instructor": "David Martinez",
+          "isFeatured": true,
+          "image": "/courses/yoga.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Digital Marketing Essentials",
+          "slug": "digital-marketing-essentials",
+          "description": "Gain a solid understanding of digital marketing strategies, tools, and techniques to boost your online presence.",
+          "price": 109.99,
+          "instructor": "Emily Brown",
+          "isFeatured": true,
+          "image": "/courses/digital_marketing.jpg"
+        }
+    ]
+}
+
+
+  
